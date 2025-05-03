@@ -1,0 +1,6 @@
+package testmodifiers;
+
+public class Test {
+
+	private int a = 10;
+}

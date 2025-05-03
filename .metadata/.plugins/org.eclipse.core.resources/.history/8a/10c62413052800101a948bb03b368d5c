@@ -1,0 +1,6 @@
+package com.ty.var;
+
+public class B {
+
+	static int i =20;
+}

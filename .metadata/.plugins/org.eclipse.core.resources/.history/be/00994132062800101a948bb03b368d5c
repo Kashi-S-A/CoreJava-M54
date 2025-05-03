@@ -1,0 +1,11 @@
+package com.ty.var;
+
+public class Test {
+
+	public static void main(String[] args) {
+		System.out.println(B.i);
+		
+		B obj = new B();
+		
+	}
+}

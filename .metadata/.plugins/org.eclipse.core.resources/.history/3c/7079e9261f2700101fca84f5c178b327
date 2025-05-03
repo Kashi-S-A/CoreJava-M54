@@ -1,0 +1,11 @@
+package Package2;
+
+import Package1.P1;
+import Package1.P2;
+
+public class P4 {
+
+	public static void main(String[] args) {
+		System.out.println();
+	}
+}

@@ -1,0 +1,13 @@
+package com.ty;
+
+public class B extends A{
+
+	static int j = 20;
+	
+	int z = 200;
+	
+	public static void main(String[] args) {
+		System.out.println(z);
+		System.out.println(A.z);
+	}
+}

@@ -1,0 +1,14 @@
+package com.ty;
+
+public class LA extends Account{
+	
+	double loan;
+	double emi;
+	
+
+	public LA(long accno, String name, double balance) {
+		super(accno, name, balance);
+		
+	}
+	
+}

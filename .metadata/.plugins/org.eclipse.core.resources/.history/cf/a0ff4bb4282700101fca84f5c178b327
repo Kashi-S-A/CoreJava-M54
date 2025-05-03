@@ -1,0 +1,6 @@
+package com.ty;
+
+public class B {
+
+	static int j = 20;
+}

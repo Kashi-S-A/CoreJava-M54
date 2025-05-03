@@ -1,0 +1,8 @@
+package com.ty;
+
+public class A {
+
+	static int i = 10;
+	
+	static int z = 100;
+}

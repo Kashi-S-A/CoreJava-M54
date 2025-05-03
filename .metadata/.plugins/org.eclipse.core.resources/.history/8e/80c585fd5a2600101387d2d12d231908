@@ -1,0 +1,7 @@
+package Module2;
+
+class Oops {
+	ublic static void main(String[] args) {
+
+	}
+}

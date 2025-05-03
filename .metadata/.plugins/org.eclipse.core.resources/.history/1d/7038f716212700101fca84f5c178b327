@@ -1,0 +1,15 @@
+package testmodifiers;
+
+public class Test {
+
+	int a = 10;
+	
+	public static void main(String[] args) {
+		 int b = 10;//CTE we cannot use access modifiers to local members
+	}
+	
+	public static void demo()
+	{
+		System.out.println("this is demo method");
+	}
+}

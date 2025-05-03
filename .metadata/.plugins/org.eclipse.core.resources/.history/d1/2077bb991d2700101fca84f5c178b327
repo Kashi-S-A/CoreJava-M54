@@ -1,0 +1,10 @@
+package Package1;
+
+public class P2 extends P1{
+
+	public static void main(String[] args) {
+		System.out.println(P1.a);
+//		System.out.println(P1.b);//private variable
+		System.out.println(P1.c);
+	}
+}
