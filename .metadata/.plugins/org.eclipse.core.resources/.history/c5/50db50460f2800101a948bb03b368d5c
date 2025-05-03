@@ -1,0 +1,8 @@
+package com.ty.override;
+
+public class A {
+
+	public void test() {
+		
+	}
+}

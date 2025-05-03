@@ -1,0 +1,13 @@
+package com.ty.meth;
+
+public class Test {
+
+	public static void main(String[] args) {
+		System.out.println("Driver method");
+		A.demo();
+		B.demo();
+		
+		B obj = new B();
+		obj.demo();
+	}
+}

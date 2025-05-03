@@ -1,0 +1,7 @@
+package com.ty.meth;
+
+public class A {
+
+	public static void demo() {
+	}
+}

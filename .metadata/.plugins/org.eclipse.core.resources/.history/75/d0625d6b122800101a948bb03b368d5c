@@ -1,0 +1,9 @@
+package com.ty.override;
+
+public class TestCalculator {
+
+	public static void main(String[] args) {
+		new Calculator().calculate(10, 20);
+		new Substract().calculate(50, 10);
+	}
+}
