@@ -12,4 +12,16 @@
     <fullyQualifiedTypeName name="com.ty.A"/>
     <fullyQualifiedTypeName name="com.ty.Account"/>
     <fullyQualifiedTypeName name="com.ty.LA"/>
+    <fullyQualifiedTypeName name="com.ty.override.B"/>
+    <fullyQualifiedTypeName name="com.ty.override.Calculator"/>
+    <fullyQualifiedTypeName name="com.ty.override.Substract"/>
+    <fullyQualifiedTypeName name="com.ty.override.Multiply"/>
+    <fullyQualifiedTypeName name="com.ty.dm.TestA"/>
+    <fullyQualifiedTypeName name="com.ty.dm.DemoA"/>
+    <fullyQualifiedTypeName name="com.ty.multipleInheritence.C"/>
+    <fullyQualifiedTypeName name="com.ty.multipleInheritence.AImpl"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.ty.C"/>
+    <fullyQualifiedTypeName name="com.ty.types.Calci"/>
+    <fullyQualifiedTypeName name="com.ty.types.College"/>
 </qualifiedTypeNameHistroy>

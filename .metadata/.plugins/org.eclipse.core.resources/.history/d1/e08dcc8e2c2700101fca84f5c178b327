@@ -1,9 +1,0 @@
-package com.ty;
-
-public class LA extends Account{
-
-	double loan;
-	double emi;
-	
-	
-}

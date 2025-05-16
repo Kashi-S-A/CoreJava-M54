@@ -1,6 +1,0 @@
-package testmodifiers;
-
-public class Test {
-
-	protected int a = 10;
-}

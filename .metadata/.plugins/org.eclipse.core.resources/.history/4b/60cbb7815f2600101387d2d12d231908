@@ -1,8 +1,0 @@
-package com.tyss.java.mod1.methods;
-
-public class Test {
-
-	public static void main(String[] args) {
-		System.out.println(Demo.a);
-	}
-}

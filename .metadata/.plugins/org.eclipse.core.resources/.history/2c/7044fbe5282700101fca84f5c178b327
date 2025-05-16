@@ -1,8 +1,0 @@
-package com.ty;
-
-public class B extends A{
-
-	static int j = 20;
-	
-	static int z = 100;
-}

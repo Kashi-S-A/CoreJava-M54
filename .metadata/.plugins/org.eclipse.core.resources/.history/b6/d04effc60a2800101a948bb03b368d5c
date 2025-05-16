@@ -1,8 +1,0 @@
-package com.ty.meth;
-
-public class A {
-
-	public static void demo() {
-		System.out.println("Demo of A");
-	}
-}

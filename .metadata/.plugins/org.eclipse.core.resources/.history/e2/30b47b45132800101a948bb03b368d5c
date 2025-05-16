@@ -1,8 +1,0 @@
-package com.ty.override;
-
-public class Calculator {
-
-	public static void calculate(int a,int b) {
-		System.out.println("adding "+a+" + "+b+" = "+(a+b));
-	}
-}

@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="testmodifiers.Test"><rhs name\="testmodifiers.Test"/></lhs><lhs name\="com.ty.Account"><rhs name\="com.ty.Account"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="testmodifiers.Test"><rhs name\="testmodifiers.Test"/></lhs><lhs name\="com.ty.Account"><rhs name\="com.ty.Account"/></lhs><lhs name\="com.ty.override.Calculator"><rhs name\="com.ty.override.Calculator"/><rhs name\="com.ty.override.Substract"/><rhs name\="com.ty.override.Multiply"/></lhs><lhs name\="com.ty.dm.A"><rhs name\="com.ty.dm.TestA"/><rhs name\="com.ty.dm.DemoA"/></lhs><lhs name\="com.ty.multipleInheritence.A"><rhs name\="com.ty.multipleInheritence.C"/><rhs name\="com.ty.multipleInheritence.AImpl"/></lhs></history>
 content_assist_number_of_computers=17
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0

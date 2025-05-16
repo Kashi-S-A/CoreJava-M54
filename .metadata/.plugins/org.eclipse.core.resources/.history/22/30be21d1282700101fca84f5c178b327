@@ -1,6 +1,0 @@
-package com.ty;
-
-public class A {
-
-	static int i = 10;
-}
